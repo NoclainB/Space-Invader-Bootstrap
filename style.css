@@ -1,0 +1,15 @@
+
+.container {
+	width:1000px;
+}
+
+#block {
+	padding-top: 7%;
+	height: auto;
+	width: auto;
+}
+
+.pixelvert {
+	background-color: #88dc00;
+}
+
